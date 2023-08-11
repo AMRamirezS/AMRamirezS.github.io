@@ -1,6 +1,5 @@
 header {
-    background-color: rgb(32, 99, 32);   
-    display: flex;
+    background-image: linear-gradient(to right bottom, #b0eb9b, #99da88, #82c976, #6bb864, #52a853, #4ba74e, #43a748, #3aa643, #45b547, #51c44b, #5dd44e, #6ae351);    display: flex;
     flex-direction: row;
     justify-content:space-between
 }
@@ -83,8 +82,7 @@ p {
 }
 
 footer {
-    background-color: rgb(68, 126, 68);
-    display: flex;    
+    background-image: linear-gradient(to right bottom, #b0eb9b, #99da88, #82c976, #6bb864, #52a853, #4ba74e, #43a748, #3aa643, #45b547, #51c44b, #5dd44e, #6ae351);    display: flex;    
 flex-direction: column;    
 }
 
