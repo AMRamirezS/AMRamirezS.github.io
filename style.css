@@ -1,0 +1,126 @@
+header {
+    background-color: rgb(32, 99, 32);   
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between
+}
+
+
+header ul{
+list-style: none;
+display: flex;
+text-emphasis: none;
+justify-content: space-between;
+}
+header ul{
+list-style: none;
+display: flex;
+text-emphasis: none;
+justify-content: space-between;
+}
+
+header ul a {
+    display: flex;
+    margin: 5px;
+    font-size: large;
+    color: white;
+  font-family: 'Rakkas', cursive;
+  flex-direction: row;
+  list-style: none;
+  text-decoration: none;
+  padding-right: 5%;
+  padding-top: 15px;
+}
+
+
+.contenedor{
+display: flex;
+flex-direction: row
+}
+
+.mapa{
+    justify-items: center;
+    width: 100%;
+    display: flex;
+    margin: 10px;
+
+}
+
+header img {
+    width: 80px;
+    display: flex;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Rakkas', cursive;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-family: 'Lugrasimo', cursive;
+    font-size: 25px;
+    justify-content: center;
+    background-color: rgb(69, 139, 69);
+    display: flex;
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+p {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+        margin: 0 20% 3% 20%;
+
+}
+
+footer {
+    background-color: rgb(68, 126, 68);
+    display: flex;    
+flex-direction: column;    
+}
+
+.equipo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    flex-direction: row;
+    display: flex;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+}
+
+.equipo div { 
+    flex-direction: row; 
+}
+
+.carrusel-image{
+    width: 100%;
+    height: 400px;
+}
+
+.lista {
+    justify-content: center;
+    display: flex;
+}
+
+.colorido {
+    background-color: rgb(199, 218, 230);
+}
+
+
+    
+.redes {
+    justify-content: center;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 8%;
+}
